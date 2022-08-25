@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.sliderCol {
+  background-color: #333;
+  /* width: 100%; */
+}
+.slider{
+  height: 600px !important;
+  /* width:50%; */
+  margin-left: 30px;
+  margin-top: -10px;
+}
+
+.slider-text{
+  margin-bottom: 200px;
+  z-index: 100;
+  position: absolute;
+}
+
+.appCss{
+  background-color: #282c34;
+}
+
+.nav-link{
+  color:white
+}

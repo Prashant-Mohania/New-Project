@@ -1,14 +1,20 @@
 import './App.css';
 import NavbarComponent from './components/navbar';
+import Slider from './components/slider';
 
 function App() {
   return (
-    // <div className="App">
+    <>
+    <div>
+    {/* // <div className="App">
     //   <header className="App-header">
         
     //           </header>
-    // </div>
+    // </div> */}
     <NavbarComponent/>
+    <Slider/>
+    </div>
+    </>
   );
 }
 
